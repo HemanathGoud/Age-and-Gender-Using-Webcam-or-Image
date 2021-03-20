@@ -16,4 +16,8 @@ Tested on:
 pip3 install -r requirements.txt
 ```
 
-When you use it for the first time , download and link haarcascade_frontalface_alt.xml and dataset.hdf5 in the same or different folder 
+When you use it for the first time , download and link haarcascade_frontalface_alt.xml and Test_CNN.hdf5 in the same or different folder 
+
+Download Test_CNN.hdf5 from 
+
+https://drive.google.com/file/d/1e_iVHII3fZySgzen7dKiIKJN3prpKzSa/view?usp=sharing
