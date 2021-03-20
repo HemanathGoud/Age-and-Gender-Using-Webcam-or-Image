@@ -16,4 +16,4 @@ Tested on:
 pip3 install -r requirements.txt
 ```
 
-When you use it for the first time , weights are downloaded and stored in **./pretrained_models** folder.
+When you use it for the first time , download and link haarcascade_frontalface_alt.xml and dataset.hdf5 in the same or different folder 
